@@ -1,3 +1,6 @@
 [submodule "books/apue-learning"]
 	path = books/apue-learning
 	url = https://github.com/lostsummer/apue-learning.git
+[submodule "online/leetcode-learing"]
+	path = online/leetcode-learing
+	url = https://github.com/lostsummer/leetcode-learning.git
