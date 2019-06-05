@@ -4,6 +4,6 @@
 [submodule "online/leetcode-learing"]
 	path = online/leetcode-learing
 	url = https://github.com/lostsummer/leetcode-learning.git
-[submodule "online/--force"]
-	path = online/--force
+[submodule "online/segmentfault-anwsers"]
+	path = online/segmentfault-anwsers
 	url = https://github.com/lostsummer/segmentfault-anwsers.git
